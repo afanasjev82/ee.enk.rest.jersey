@@ -1,4 +1,4 @@
 ee.enk.rest.jersey
 ==================
 
-ENK Proovitöö
+ENK OMX Proovitöö
